@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="ogoldberg-laptop" name="StoreControllerTests" tests="1" time="2.277" timestamp="2010-01-09T23:27:43">
+  <properties />
+  <testcase classname="StoreControllerTests" name="testRenderHomePage" time="2.275" />
+  <system-out><![CDATA[--Output from testRenderHomePage--
+]]></system-out>
+  <system-err><![CDATA[--Output from testRenderHomePage--
+]]></system-err>
+</testsuite>
